@@ -139,10 +139,3 @@ section {
   padding: 30px;
   margin-top: 20px;
 }
-
-.footer ul {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  text-align: center;
-}
