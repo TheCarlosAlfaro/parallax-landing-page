@@ -143,6 +143,6 @@ section {
 .footer ul {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-around;
   text-align: center;
 }
